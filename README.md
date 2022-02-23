@@ -1,6 +1,6 @@
 # EventUs
 
-EventUs is an anti-social media platform that breaks down the barriers to participation in online and in-person events in your area.
+EventUs is an anti-social media app that breaks down the barriers to participation in online and in-person events in your area.
 
 ## What Roadblocks do people have when it comes to mental or physical health?
 
